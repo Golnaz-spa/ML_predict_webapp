@@ -5,4 +5,5 @@ In this project, I deploy a public machine learning web app, use Streamlit and s
 that predict a person with specific feature has Diabetes or not.
 The deployment requires a few key files: a Python file with Streamlit code, the model files (saved as .sav), and a requirements.txt file listing necessary libraries.
 The requirements.txt file specifies the required libraries and their versions.
+you can access to the page : https://mlpredictwebapp-s9pidwfz5c7rl9rzgbybdq.streamlit.app/
 
